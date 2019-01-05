@@ -1,0 +1,20 @@
+{
+  "name": "webpack-4-test-for-dev-server-reload",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack 4",
+    "webpack-dev-server",
+    "browser reload on change"
+  ],
+  "author": "Roza CG",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
